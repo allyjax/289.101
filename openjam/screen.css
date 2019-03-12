@@ -107,5 +107,8 @@ text-align: center;
     background-image: url(img/map.gif);
     padding: 30px;
     height: 590px
+}
 
+#where h1 {
+    text-align: center;
 }
