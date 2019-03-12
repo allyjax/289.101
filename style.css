@@ -1,0 +1,11 @@
+ .important {
+            font-size: 30px; 
+            color: #F236A7;
+            font-style: italic;
+        }
+
+#box1 {
+    background-color: yellow; 
+    border: 10px solid red;
+    height: 100px; 
+}
